@@ -42,7 +42,7 @@ export default function ProductCard({ product }: Props) {
             imageHeight="100%"
             imageWidth="70%"
 
-            rotateAmplitude={50}
+            rotateAmplitude={20}
             scaleOnHover={1.07}
             showTooltip={false}
             showMobileWarning={false}
