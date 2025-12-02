@@ -55,7 +55,8 @@ export default function ProductCard({ product }: Props) {
       <div className="p-4 flex flex-col flex-1">
         <h3 className="font-semibold text-lg mb-1">{product.title}</h3>
 
-        <p className="text-sm text-slate-600 flex-1">{product.description}</p>
+        <p className="text-base font-bold text-slate-500 flex-1">{product.description}</p>
+
 
         <div className="mt-3 flex items-center justify-between">
           <span className="font-bold text-base">₹ {product.price}</span>
