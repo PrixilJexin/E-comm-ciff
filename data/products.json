@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "AUDI 90 Quattro",
+    "description": "Built to scorch asphalt and leave rivals choking on dust.",
+    "imageUrl": "https://res.cloudinary.com/duxs7rv6c/image/upload/v1764605521/hotwheels/oi6cofykbnpqq3mvhwda.png",
+    "price": 359,
+    "soldOut": false
+  },
+  {
+    "id": 2,
+    "title": "KICK KART",
+    "description": "Small body, orbit-breaking acceleration",
+    "imageUrl": "https://res.cloudinary.com/duxs7rv6c/image/upload/v1764605660/hotwheels/kpajhs9jctu92qfqueyz.png",
+    "price": 359,
+    "soldOut": false
+  },
+  {
+    "id": 3,
+    "title": "PORSHE 904 Carrera GTS",
+    "description": "Heartbeat of the track—fast, steady, relentless",
+    "imageUrl": "https://res.cloudinary.com/duxs7rv6c/image/upload/v1764605717/hotwheels/vjvjb0ddxymutcdmkcwg.png",
+    "price": 359,
+    "soldOut": false
+  },
+  {
+    "id": 4,
+    "title": "'96 DODGE VIPER GTS",
+    "description": "Bends physics just enough to stay unbeatable.",
+    "imageUrl": "https://res.cloudinary.com/duxs7rv6c/image/upload/v1764605814/hotwheels/lep79tna6e2bfu8dr6xq.png",
+    "price": 359,
+    "soldOut": false
+  },
+  {
+    "id": 5,
+    "title": "SPEED DRIVER",
+    "description": "Mechanical precision wrapped in pure speed.",
+    "imageUrl": "https://res.cloudinary.com/duxs7rv6c/image/upload/v1764605899/hotwheels/xzivrzkih7ibxehyvykh.png",
+    "price": 359,
+    "soldOut": false
+  },
+  {
+    "id": 6,
+    "title": "VOLVO 240 DRIFT WAGON",
+    "description": "Never predictable, always dangerous.",
+    "imageUrl": "https://res.cloudinary.com/duxs7rv6c/image/upload/v1764605926/hotwheels/d5acnw5vol6xzahfkr1v.png",
+    "price": 359,
+    "soldOut": false
+  },
+  {
+    "id": 7,
+    "title": "1983 PORSHE 928S",
+    "description": "Silent, stealthy, and always first over the finish line.",
+    "imageUrl": "https://res.cloudinary.com/duxs7rv6c/image/upload/v1764606002/hotwheels/bdvmlg0lmti4c81daaw0.png",
+    "price": 359,
+    "soldOut": false
+  },
+  {
+    "id": 8,
+    "title": "BMW 2002",
+    "description": "A timeless silhouette built to outpace expectations.",
+    "imageUrl": "https://res.cloudinary.com/duxs7rv6c/image/upload/v1764606072/hotwheels/gqz395zxhahdwpikghgv.png",
+    "price": 359,
+    "soldOut": false
+  },
+  {
+    "id": 9,
+    "title": "SKULL SHAKER",
+    "description": "Brings chaos in a compact, bone-clad package.",
+    "imageUrl": "https://res.cloudinary.com/duxs7rv6c/image/upload/v1764606126/hotwheels/bwpmpwlgmhqy5luumiw7.png",
+    "price": 359,
+    "soldOut": false
+  },
+  {
+    "id": 10,
+    "title": "BMW 635 CSi",
+    "description": "Tuned to hit top speed before the track even wakes up.",
+    "imageUrl": "https://res.cloudinary.com/duxs7rv6c/image/upload/v1764606152/hotwheels/ytkzyalf2su8hy3kiy1w.png",
+    "price": 359,
+    "soldOut": false
+  }
+]
