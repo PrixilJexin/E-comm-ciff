@@ -25,7 +25,7 @@ export default function HomePage() {
 
   return (
     <div className="space-y-4 mt-4 mb-10">
-      <h1 className="text-2xl font-bold mb-2">Available Hot Wheels</h1>
+      <h1 className="text-2xl font-bold mb-2">Garage</h1>
       {products.length === 0 ? (
         <p className="text-sm text-slate-600">
           No cars added yet. Check back later.

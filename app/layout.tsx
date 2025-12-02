@@ -7,8 +7,8 @@ import "@fontsource/doto/500.css";
 
 
 export const metadata: Metadata = {
-  title: "HotWheels Garage",
-  description: "E-commerce website selling Hot Wheels cars."
+  title: "Cliffy's",
+  description: "We sell Hot Wheels cars."
 };
 
 export default function RootLayout({
